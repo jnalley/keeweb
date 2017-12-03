@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "canImportXml": false,
+    "expandGroups": false,
+    "canOpenDemo": false,
+    "dropbox": false,
+    "gdrive": true,
+    "gdriveClientId": "619221165513-l4acmgimg6jcomss0tje740e68s9vaso.apps.googleusercontent.com",
+    "locale": "en",
+    "onedrive": false,
+    "webdav": false
+  }
+}
